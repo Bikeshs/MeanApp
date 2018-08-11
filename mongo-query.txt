@@ -1,0 +1,2 @@
+//Create collection
+db.createCollection("User")
